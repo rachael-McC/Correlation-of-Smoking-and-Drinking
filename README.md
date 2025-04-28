@@ -39,5 +39,9 @@ https://matplotlib.org/3.5.0/api/_as_gen/matplotlib.pyplot.html
 
 https://www.youtube.com/watch?v=J7cd1-g1O7A
 
+https://www.bing.com/search?q=pivot%20table%20for%20a%20heatmap%20python%20&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=pivot%20table%20for%20a%20heatmap%20python&sc=12-32&sk=&cvid=76B7351ECCEE430691C6CB51B4914931
 
+https://pythonexamples.org/python-matplotlib-subplot-legend/
+
+https://stackoverflow.com/questions/60249807/python-isnull-sum-vs-isnull-count
 ___________________________________
