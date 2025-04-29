@@ -14,15 +14,9 @@ Core Function libraries:
 -import numpy as np
 
 ___________________________________
-Our findings 
+Our findings:
 
-According to the heat map there is a negative coorilation between smoking and drinking. It shows that most sudents to engage in these activities. 
-
-There is a large amount of students that non-smokers and non-drinkers
-
-as the dats frow the numbers decrease suggesting that very few students partake in both smoking and drinking. 
-
-At the 2-4 day mark there are a few students that drink hwoever the smoking is less frequent. 
+The heatmap suggests a positive correlation between smoking and drinking. individuals who drink more frequently also tend to smoke more frequently.
 
 ___________________________________
 Resources:
